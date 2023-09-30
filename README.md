@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cinarzeynep.
-- 👀 I’m interested in front end web development.
+- 👀 I’m interested in front-end web development.
 - 🌱 I’m currently learning React.
 
 <!---
